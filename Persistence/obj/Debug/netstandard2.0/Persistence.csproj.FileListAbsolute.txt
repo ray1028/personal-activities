@@ -1,0 +1,11 @@
+/Users/rayj/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/rayj/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/rayj/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/rayj/Reactivities/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/rayj/Reactivities/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/rayj/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/rayj/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/rayj/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/rayj/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/rayj/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/rayj/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
